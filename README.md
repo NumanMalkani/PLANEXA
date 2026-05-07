@@ -1,5 +1,4 @@
 <img width="1853" height="942" alt="Screenshot 2026-05-08 010428" src="https://github.com/user-attachments/assets/adbda030-5343-4fe8-b931-2cf6a6302b18" />
-<img width="1886" height="933" alt="Screenshot 2026-05-08 010140" src="https://github.com/user-attachments/assets/fd7551fa-09cb-4816-bf28-75467200658e" />
 <img width="1886" height="933" alt="Screenshot 2026-05-08 010140" src="https://github.com/user-attachments/assets/0816955e-4a31-4cc4-be62-10a151fe4cc7" />
 # Planexa - Productivity Tracking Application
 
